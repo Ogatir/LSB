@@ -1,0 +1,9 @@
+c:\users\иван\documents\visual studio 2012\Projects\LSB\LSB\bin\Debug\LSB.exe.config
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\bin\Debug\LSB.exe
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\bin\Debug\LSB.pdb
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\obj\Debug\LSB.csprojResolveAssemblyReference.cache
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\obj\Debug\LSB.Form1.resources
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\obj\Debug\LSB.Properties.Resources.resources
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\obj\Debug\LSB.csproj.GenerateResource.Cache
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\obj\Debug\LSB.exe
+C:\Users\Иван\documents\visual studio 2012\Projects\LSB\LSB\obj\Debug\LSB.pdb
